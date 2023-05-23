@@ -1,4 +1,6 @@
 package com.example.ticketdestination.model
 
-class OrderTicket {
-}
+data class OrderTicket(
+    val ticket: TicketDestination,
+    val count : Int,
+)
