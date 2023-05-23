@@ -73,7 +73,7 @@ fun CartContent(
             }
         }
         BuyButton(
-            text = stringResource(id = R.string.total_ticket, state.totalPrice),
+            text = "BUY",
             enabled = state.buyTicket.isNotEmpty(),
             onClick = {onBuyButtonClicked("")},
             modifier = Modifier.padding(16.dp)

@@ -9,10 +9,11 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.example.ticketdestination.utils.convertRupiah
 
 @Composable
 fun BuyButton(
-    text: String,
+    text: Long,
     modifier: Modifier = Modifier,
     enabled: Boolean = true,
     onClick: () -> Unit,
@@ -24,12 +25,12 @@ fun BuyButton(
             .fillMaxWidth()
             .height(52.dp)
     ) {
-        Text(text = text, modifier = modifier.align(Alignment.CenterVertically) )
+        Text(text = convertRupiah(text), modifier = modifier.align(Alignment.CenterVertically) )
     }
 }
 
 @Preview(showBackground = true)
 @Composable
 fun BuyButtonPreview() {
-    BuyButton(text = "Buy", onClick = {})
+    BuyButton(text = 2000, onClick = {})
 }

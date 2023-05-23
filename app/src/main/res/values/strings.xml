@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">TicketDestination</string>
     <string name="total_ticket">Total Harga : %d </string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="add_cart">Tambah ke keranjang : %d</string>
+    <string name="profile">Profile</string>
     <string name="back">Back</string>
 </resources>
