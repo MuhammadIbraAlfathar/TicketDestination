@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TicketDestination</string>
     <string name="total_ticket">Total Harga : %d </string>
+    <string name="back">Back</string>
 </resources>
