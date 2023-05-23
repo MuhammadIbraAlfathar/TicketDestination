@@ -87,7 +87,7 @@ fun CartItemPreview() {
             location = "Jakarta Barat" ,
             totalPrice = 5000,
             count = 0,
-            onTicketCountChanged =  {id, count ->}
+            onTicketCountChanged =  { _, _ ->}
         )
     }
 }
