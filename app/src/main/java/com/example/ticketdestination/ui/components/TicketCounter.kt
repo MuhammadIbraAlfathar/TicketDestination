@@ -24,7 +24,7 @@ import com.example.ticketdestination.ui.theme.TicketDestinationTheme
 @Composable
 fun TicketCounter(
     id: Long,
-    ticketCount: Long,
+    ticketCount: Int,
     onTicketIncreased: (Long) -> Unit,
     onTicketDecreased: (Long) -> Unit,
     modifier: Modifier = Modifier,
