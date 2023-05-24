@@ -71,7 +71,7 @@ object FakeData {
             8,
             "https://o-cdn-cas.sirclocdn.com/parenting/images/Wisata_Jakarta_Pantai_Ancol_andar.width-800.format-webp.webp",
             "Pantai Ancol",
-            "Pantai Ancol merupakan salah satu ikon wisata di Kota Jakarta yang tak boleh dilewatkan. Pantai ini juga bisa dikatakan sebagai pantai yang paling lengkap jika dibandingkan dengan pantai yang lainnya. Selain menjadi tempat wisata, Ancol juga menjadi dermaga utama untuk pengunjung yang ingin menuju Kepulauan Seribu. Tak hanya sebagai bersandarnya kapal, warga Jakarta juga menjadikannya sebagai lokasi olahraga air yang seru.\n " +
+            "Pantai Ancol merupakan salah satu ikon wisata di Kota Jakarta yang tak boleh dilewatkan. Pantai ini juga bisa dikatakan sebagai pantai yang paling lengkap jika dibandingkan dengan pantai yang lainnya. Selain menjadi tempat wisata, Ancol juga menjadi dermaga utama untuk pengunjung yang ingin menuju Kepulauan Seribu. Tak hanya sebagai bersandarnya kapal, warga Jakarta juga menjadikannya sebagai lokasi olahraga air yang seru.\n" +
                     "Ancol sendiri di bangun pada tahun 1954 yang kemudian pembangunannya selesai di tahun 1968. Namun di tahun 1966 sebelum wisata ini juga sudah di buka. Tujuannya dibangun Ancol tentunya sebagai sarana hiburan di sesaknya kota Jakarta. Dengan mengunjungi tempat satu ini, maka bisa sebentar saja lepas dari kemacetan dan hiruk pikuk kota. Tak heran jika pantai Ancol tetap menjadi favorit hingga saat ini.",
             "Jakarta Utara",
             25000
@@ -80,7 +80,7 @@ object FakeData {
             9,
             "https://cdn.idntimes.com/content-images/post/20211004/jakartaaquarium-1633328309026449-316b56230d1657f7966255d3f6e3593b.jpg",
             "Jakarta Aquarium",
-            "Akuarium Jakarta, yang tidak boleh disamakan dengan akuarium lain di daerah ini, adalah salah satu tempat wisata terbaru dan terpopuler di kota ini. Terletak di Neo Soho Mall yang hanya berjarak 4 kilometer sebelah barat Monas yang merupakan simbol nasional Indonesia. Akuarium Jakarta adalah fasilitas rekreasi modern yang menakjubkan yang dimaksudkan untuk menghibur orang-orang dari segala usia dan minat. Mereka menempatkan penekanan kuat pada pelestarian lingkungan juga.\n " +
+            "Akuarium Jakarta, yang tidak boleh disamakan dengan akuarium lain di daerah ini, adalah salah satu tempat wisata terbaru dan terpopuler di kota ini. Terletak di Neo Soho Mall yang hanya berjarak 4 kilometer sebelah barat Monas yang merupakan simbol nasional Indonesia. Akuarium Jakarta adalah fasilitas rekreasi modern yang menakjubkan yang dimaksudkan untuk menghibur orang-orang dari segala usia dan minat. Mereka menempatkan penekanan kuat pada pelestarian lingkungan juga.\n" +
                     "Akuarium Jakarta menawarkan pengunjung kesempatan untuk mengamati lebih dari 600 spesies berbeda, tetapi tidak hanya itu saja. Selain itu, Jakarta Aquarium menawarkan presentasi teater setiap hari, sesi memberi makan hewan secara langsung, Restoran Pingoo di mana pengunjung dapat memberi makan penguin, pengalaman petualangan 5D, dan berbagai atraksi lainnya.",
             "Jakarta Barat",
             115000
@@ -89,7 +89,7 @@ object FakeData {
             10,
             "https://o-cdn-cas.sirclocdn.com/parenting/images/274860691_152551290475533_1869123.width-800.format-webp.webp",
             "Museum Wayang",
-            "Museum Wayang adalah museum yang lokasinya berada di sekitar kawasan Kota Tua sehingga saat kalian sedang datang ke Kota Tua, sempatkanlah untuk mampir ke Museum Wayang ini. Sesuai dengan namanya, Museum Wayang adalah sebuah museum yang di dalamnya terdapat beragam jenis wayang dari seluruh Indonesia. Mulai dari wayang kulit, wayang golek, dan lain sebagainya.\n " +
+            "Museum Wayang adalah museum yang lokasinya berada di sekitar kawasan Kota Tua sehingga saat kalian sedang datang ke Kota Tua, sempatkanlah untuk mampir ke Museum Wayang ini. Sesuai dengan namanya, Museum Wayang adalah sebuah museum yang di dalamnya terdapat beragam jenis wayang dari seluruh Indonesia. Mulai dari wayang kulit, wayang golek, dan lain sebagainya.\n" +
                     "Koleksi-koleksi wayang yang ada di museum ini memiliki nilai seni yang sangat tinggi. Museum yang sudah berdiri sejak tahun 1975 ini juga memiliki koleksi boneka serta lukisan dari berbagai dunia yang dipamerkan di sini.",
             "Jakarta Barat",
             5000

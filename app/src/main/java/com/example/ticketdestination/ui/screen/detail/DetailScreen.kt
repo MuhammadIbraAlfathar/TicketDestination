@@ -33,7 +33,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
 import com.example.ticketdestination.R
-import com.example.ticketdestination.ui.components.BuyButton
+import com.example.ticketdestination.ui.components.ButtonToCart
 import com.example.ticketdestination.ui.components.TicketCounter
 import com.example.ticketdestination.ui.theme.TicketDestinationTheme
 import com.example.ticketdestination.utils.convertRupiah
@@ -136,13 +136,15 @@ fun DetailContent(
                     letterSpacing = 1.sp
                 )
                 Spacer(modifier = Modifier.height(16.dp))
+                Text(text ="Lokasi", fontWeight = FontWeight.SemiBold)
                 Text(
                     text = location,
                     style = MaterialTheme.typography.body2.copy(
                         fontWeight = FontWeight.Bold
                     )
                 )
-                Spacer(modifier = Modifier.height(8.dp))
+                Spacer(modifier = Modifier.height(16.dp))
+                Text(text = "Harga Tiket", fontWeight = FontWeight.SemiBold)
                 Text(
                     text = convertRupiah(basePrice),
                     style = MaterialTheme.typography.subtitle1.copy(
@@ -169,8 +171,8 @@ fun DetailContent(
                     .padding(bottom = 16.dp)
             )
             totalTicket = basePrice * buyTicketCount
-            BuyButton(
-                text = totalTicket,
+            ButtonToCart(
+                text = convertRupiah(totalTicket),
                 enabled = buyTicketCount > 0,
                 onClick =  {
                     onAddToCart(buyTicketCount)

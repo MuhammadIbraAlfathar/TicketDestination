@@ -9,28 +9,26 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.ticketdestination.utils.convertRupiah
 
 @Composable
-fun BuyButton(
-    text: Long,
+fun ButtonToCart(
+    text: String,
     modifier: Modifier = Modifier,
     enabled: Boolean = true,
     onClick: () -> Unit,
 ) {
     Button(
         onClick = onClick,
-        enabled = enabled,
-        modifier = modifier
+        enabled = enabled,        modifier = modifier
             .fillMaxWidth()
             .height(52.dp)
     ) {
-        Text(text = convertRupiah(text), modifier = modifier.align(Alignment.CenterVertically) )
+        Text(text = text, modifier = modifier.align(Alignment.CenterVertically) )
     }
 }
 
 @Preview(showBackground = true)
 @Composable
 fun BuyButtonPreview() {
-    BuyButton(text = 2000, onClick = {})
+    ButtonToCart(text = "", onClick = {})
 }

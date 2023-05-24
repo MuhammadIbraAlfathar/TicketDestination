@@ -1,10 +1,14 @@
 <resources>
     <string name="app_name">TicketDestination</string>
-    <string name="total_ticket">Total Harga : %d </string>
     <string name="menu_home">Home</string>
     <string name="menu_cart">Keranjang</string>
     <string name="menu_profile">Profile</string>
-    <string name="add_cart">Tambah ke keranjang : %d</string>
     <string name="profile">Profile</string>
     <string name="back">Back</string>
+    <string name="total">Total Harga</string>
+    <string name="pay">Bayar</string>
+    <string name="ticket_destination">Ticket Destination</string>
+    <string name="succesMessage">Kamu membayar %d Ticket Destinasi Wisata </string>
+    <string name="name">Muhammad Ibra Alfathar</string>
+    <string name="email">ibraalfathar22@gmail.com</string>
 </resources>

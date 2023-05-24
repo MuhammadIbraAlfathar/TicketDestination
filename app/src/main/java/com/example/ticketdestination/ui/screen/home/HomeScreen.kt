@@ -41,6 +41,8 @@ fun HomeScreen(
     }
 }
 
+
+
 @Composable
 fun HomeContent(
     buyTicket: List<OrderTicket>,

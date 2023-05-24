@@ -37,7 +37,7 @@ fun CartItem(
             contentScale = ContentScale.Crop,
             modifier = modifier
                 .size(90.dp)
-                .clip(Shapes.small)
+                .clip(Shapes.medium)
         )
         Column(
             modifier = modifier
